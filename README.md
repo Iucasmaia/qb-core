@@ -1,0 +1,1 @@
+QB-Core written in Javascript.
